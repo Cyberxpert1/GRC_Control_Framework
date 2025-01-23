@@ -1,2 +1,3 @@
-# GRC_Control_Framework
-![IMG_20250123_234338](https://github.com/user-attachments/assets/b9284e1d-4dd0-4b20-8a42-7a376ee457c8)
+# GRC_Control_Framework![IMG_20250123_235019](https://github.com/user-attachments/assets/89b85bd1-afb4-44a8-9e0b-60e2f80e2a39)
+
+
