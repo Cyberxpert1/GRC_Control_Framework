@@ -102,3 +102,35 @@ There are two or more of these NIST functions identified for each control activi
    
 Figure 2 NIST CSF Framework Functions
 All controls require one or more of the Protect, Detect, Respond and Recover functions, depending on the control focus.
+
+The controls are logically designed to address areas of risk requiring secure, repeatable, and sustainable control activities. These controls and associated control activities are needed for IT operations; Especially IT operational activities that introduce risk or increase risk potential due to either the complexity of the task, or the risk associated with the introduction of changes. For example, change management, patch management, and application access are all areas that introduce risk of a security breach, or downtime through unauthorized or unplanned change activities and therefore these are areas focused on by Risk and Security professionals, and Auditors.
+
+2. Control Framework
+
+The Control Framework is the hierarchical structure used to categorize and organize controls by areas of risk in IT Operations, Services, and tasks. The framework establishes due diligence and provides evidence 
+of due care in addressing IT Risk and Cybersecurity.
+
+1. The Control framework defines areas of risk and logically assigns controls that are designed to treat risk through documented control objectives, control activities, roles and responsibilities.
+
+2. The Control Framework establishes governance1 for control activities through executive authorized policy instruments. These documents provide executive support and authority for all control activities.
+
+3. The Control Policy instruments provide the Executive with the mechanism used to establish intent and to direct2 activities associated with IT operations.
+
+4. Controls in the framework are designed to achieve cybersecurity compliance across all IT operations.
+
+5. The Control framework helps to integrate security into all IT operations.
+
+6. All controls are sustainable and provide the executive (Control Owners and Executive) a mechanism to monitor and evaluate control activity.
+
+![IMG_20250125_123802](https://github.com/user-attachments/assets/736968d2-966c-4630-9678-555b9e790f21)
+
+
+1. The Control title column provides the title for the control in the framework. For example,Change Management, Application Access, and Disaster Recovery.
+
+2. The Risk statement defines the risk associated with the lack of policy, standards, process and procedures, and is what establishes the need for the control.
+
+3. The Control number is for easy reference, which should identify the control and control activity.
+
+1 IT Governance helps an organization achieve desired behaviors and outcomes and stakeholder value. 
+2 CoBIT clearly separates Governance and Management. Evaluate, Direct and Monitor (EDM) are the governance.
+activities associated with Controls. Governance is not management.
