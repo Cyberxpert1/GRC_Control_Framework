@@ -1,33 +1,17 @@
 # GRC_Control_Framework![IMG_20250123_235019](https://github.com/user-attachments/assets/89b85bd1-afb4-44a8-9e0b-60e2f80e2a39)
 Executive Summary
 
-The control framework described in this document is designed to establish a robust, sustainable, risk and 
+The control framework described in this document is designed to establish a robust, sustainable, risk and security control framework that reduces risk, defines the security stance, and supports the organizational policy and directives. 
 
-security control framework that reduces risk, defines the security stance, and supports the organizational 
+Executive Support and authority (Governance) is required for the creation of all controls and control activities in the control framework. Governance is initially established through policy. The Control Policies establish Governance, define Executive intent, and provide Control Owners with direction for evaluation and monitoring of controls and the delegation of roles and responsibilities. 
 
-policy and directives. 
+The controls in this framework are logically designed to address areas of IT risk that require secure, auditable, and sustainable control activities. These controls, and associated control activities, are required 
 
-Executive Support and authority (Governance) is required for the creation of all controls and control 
+for IT operations that can introduce risk or increase risk potential due to either the complexity of the task, or the risk associated with the introduction of changes. For example, change management and patch 
 
-activities in the control framework. Governance is initially established through policy. The Control Policies 
+management are areas that can introduce risk of a security breach, or result in unscheduled downtime if changes are unauthorized, untested, or unplanned. 
 
-establish Governance, define Executive intent, and provide Control Owners with direction for evaluation 
-
-and monitoring of controls and the delegation of roles and responsibilities. 
-
-The controls in this framework are logically designed to address areas of IT risk that require secure, 
-
-auditable, and sustainable control activities. These controls, and associated control activities, are required 
-
-for IT operations that can introduce risk or increase risk potential due to either the complexity of the task, 
-
-or the risk associated with the introduction of changes. For example, change management and patch 
-
-management are areas that can introduce risk of a security breach, or result in unscheduled downtime if 
-
-changes are unauthorized, untested, or unplanned. 
-
-The control framework achieves the following objectives: 
+# The control framework achieves the following objectives: 
 
 1. Reduces IT risk through the integration of risk management practices with IT operations and Services.
 
