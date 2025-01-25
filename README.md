@@ -1,5 +1,5 @@
 # GRC_Control_Framework![IMG_20250123_235019](https://github.com/user-attachments/assets/89b85bd1-afb4-44a8-9e0b-60e2f80e2a39)
-Executive Summary
+# Executive Summary
 
 The control framework described in this document is designed to establish a robust, sustainable, risk and security control framework that reduces risk, defines the security stance, and supports the organizational policy and directives. 
 
@@ -131,6 +131,18 @@ of due care in addressing IT Risk and Cybersecurity.
 
 3. The Control number is for easy reference, which should identify the control and control activity.
 
+4. Control activities provides a brief description of each of the control activities that will achieve control objectives.
+
+5. The final 5 columns establish the relation between controls and the NIST Cybersecurity Framework (CSF). There are five NIST CSF functions and each control activity aligns with one or more of these functions.
+
+
 1 IT Governance helps an organization achieve desired behaviors and outcomes and stakeholder value. 
 2 CoBIT clearly separates Governance and Management. Evaluate, Direct and Monitor (EDM) are the governance.
 activities associated with Controls. Governance is not management.
+
+
+3. IT Controls
+
+An effective and auditable IT control consists of more than a policy or standard statement or a process and procedure. It requires that roles and responsibilities, as well as accountability, be defined at all levels of control activity. The control is designed to be sustainable by the people that implement it through process and procedures.
+
+The control therefore has, and requires, governance and sustainability to be built into each control. This is accomplished by establishing roles and responsibilities for each control activity. The Owner is accountable for the control and regularly reports on control effectiveness. The Controller is responsible for process, and ensuring that the control process and procedures are effective and function as designed. The Custodian is responsible for creation and maintenance of procedures that implement the control and for performing reviews of their control activities.Each Control in the framework consists of the following elements, read from left to right:
